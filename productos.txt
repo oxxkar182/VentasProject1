@@ -1,0 +1,5 @@
+001;Teclado;56.43
+002;Mouse;81.57
+003;Teclado;26.76
+004;Laptop;14.10
+005;Impresora;44.02

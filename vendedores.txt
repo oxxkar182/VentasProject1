@@ -1,0 +1,10 @@
+33455701;1300;Laura;Pérez
+65256045;0403;Carlos;García
+09074825;3876;Ana;Rodríguez
+33001114;5272;Carlos;Martínez
+50871943;2400;Laura;Hernández
+55840441;0312;Luis;Rodríguez
+47502003;1501;Carlos;Rodríguez
+38246872;4045;Luis;López
+94265936;1593;Juan;Hernández
+92381958;2089;Ana;García
