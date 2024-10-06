@@ -39,3 +39,8 @@ Algunas de las dificultades encontradas durante el desarrollo del proyecto inclu
 •	Documentación: Documentar adecuadamente cada paso del proceso, desde la generación de datos hasta la creación de 
 	los reportes, requería un enfoque meticuloso para garantizar que el equipo de trabajo pudiera comprender 
 	y replicar el flujo de trabajo.
+•	Curva de aprendizaje inicial: Para aquellos que somos nuevos en GitHub y en el uso de sistemas de control de versiones,
+        La curva de aprendizaje puede ser empinada. Los conceptos como commits, branches, pull requests y merge conflicts pueden
+	ser confusos al principio. Además, la interfaz de usuario y los comandos de la línea de comandos pueden parecer
+	complicados, lo que puede llevar a errores y frustración en el manejo de los repositorios, especialmente en entornos 
+	colaborativos donde se requiere una buena comprensión de las prácticas de trabajo en equipo.
